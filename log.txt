@@ -1,0 +1,68 @@
+Machine Learning
+
+videos done
+
+https://www.youtube.com/watch?v=lN5jesocJjk&index=3&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+https://www.youtube.com/watch?v=KLGfMGsgP34&index=9&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+https://www.youtube.com/watch?v=44jq6ano5n0&index=13&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+classifier knn  -- >.KNeighborsClassifier(algorithm='auto', leaf_size=30, metric='minkowski',
+           metric_params=None, n_jobs=1, n_neighbors=5, p=2,
+           weights='uniform')
+		   
+		   
+		   s
+https://www.youtube.com/watch?v=3XPhmnf96s0&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v&index=18
+
+https://www.youtube.com/watch?v=VngCRWPrNNc&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v&index=22
+
+
+https://www.youtube.com/watch?v=bGCafQT5h1s&index=24&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+
+https://www.youtube.com/watch?v=VhHLpg7ZS4Q&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v&index=27
+
+https://www.youtube.com/watch?v=JHaqodAQqiI&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v&index=31
+
+https://www.youtube.com/watch?v=8p6XaQSIFpY&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v&index=35
+
+https://www.youtube.com/watch?v=H4JSN_99kig&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+
+https://www.youtube.com/watch?v=3ERPpzrDkVg&index=39&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+https://www.youtube.com/watch?v=BhpvH5DuVu8&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+https://www.youtube.com/watch?v=PwAGxqrXSCs
+
+https://www.youtube.com/watch?v=YFxVHD2TNII&index=49&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
+
+
+cs 229 stanford lessons by DR. Andrew Ng
+
+https://www.youtube.com/watch?v=UzxYlbK2c7E
+
+next watch - https://www.youtube.com/watch?v=HZ4cvaztQEs
+
+
+
+coursera :
+
+https://www.coursera.org/learn/machine-learning/lecture/YOMHn/kernels-i
+
+
+complete the course :
+https://www.coursera.org/learn/machine-learning/home/welcome
+
+
+mit liner alzebra:
+https://www.youtube.com/watch?v=QVKj3LADCnA&index=2&list=PLE7DDD91010BC51F8
+
+
+
+tensor flow lessions :
+
+
+In TensorFlow we create tensors directly in Python. But these do not do anything until we pass them to a Session and run it. The program then is evaluated by TensorFlow in C++, not Python.
